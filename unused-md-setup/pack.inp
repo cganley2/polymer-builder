@@ -1,0 +1,15 @@
+# created by fftool
+tolerance 2.5
+filetype xyz
+output simbox.xyz
+
+structure example-polymer_pack.xyz
+  number 1
+  center
+  fixed 0. 0. 0. 0. 0. 0.
+end structure
+
+structure toluene_pack.xyz
+  number 300
+  inside box -25.0000 -25.0000 -25.0000 25.0000 25.0000 25.0000
+end structure

@@ -1,0 +1,5 @@
+3
+Properties=species:S:1:pos:R:3:occupancy:R:1:bfactor:R:1:residuenames:S:1:atomtypes:S:1:residuenumbers:I:1 pbc="F F F"
+C       -0.02500000       0.33300000       0.00000000       1.00000000       0.00000000 UNL  C         1
+S       -1.43500000       0.34700000       0.00000000       1.00000000       0.00000000 UNL  S         1
+S        1.38500000       0.32000000       0.00000000       1.00000000       0.00000000 UNL  S         1
