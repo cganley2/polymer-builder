@@ -1,0 +1,4 @@
+! B97-D3 def2-TZVP Opt
+%pal nprocs 8 end
+%elprop Quadrupole True Polar 1 end
+* xyzfile 0 1 DPP.xyz
